@@ -5,7 +5,6 @@
 /.phpdoc                export-ignore
 /benchmark              export-ignore
 /docs                   export-ignore
-/examples               export-ignore
 /tests                  export-ignore
 /.editorconfig          export-ignore
 /.gitattributes         export-ignore
